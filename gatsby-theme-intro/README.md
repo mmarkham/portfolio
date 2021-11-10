@@ -118,9 +118,9 @@ Here is the list of configuration options you can set in `gatsby-config.js`:
 ```javascript
 module.exports = {
   siteMetadata: {
-    description: "Personal page of John Doe",
+    description: "Personal page of Matt Markham",
     locale: "en",
-    title: "John Doe",
+    title: "Matt Markham",
     formspreeEndpoint: "https://formspree.io/f/{your-id}",
   },
   plugins: [

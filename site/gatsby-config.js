@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    description: "Personal page of John Doe",
+    description: "Personal page of Matt Markham",
     locale: "en",
-    title: "John Doe",
+    title: "Matt Markham",
   },
   plugins: [
     {
@@ -11,7 +11,7 @@ module.exports = {
         basePath: "/",
         contentPath: "content/",
         showThemeLogo: true,
-        theme: "classic",
+        theme: "dark-blue",
       },
     },
   ],

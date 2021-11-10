@@ -1,11 +1,11 @@
 - profile:
-  initials: JD
-  name: John Doe
-  profession: Web Developer
-  image: images/profile.jpg
-  location: New York, USA
+  initials: MM
+  name: Matt Markham
+  profession: Developer
+  image: images/mmarkham3.jpg
+  location: Santa Cruz, CA
   relocation: true
-  company: Atomic Studio
+  company: X1
   for_hire: true
   focus: Learning Gatsby
   focus_url: https://gatsbyjs.org

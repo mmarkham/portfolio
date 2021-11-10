@@ -1,0 +1,44 @@
+- name: MERN Marketplace
+  url: https://marketplace-mmarkham.herokuapp.com/
+  description: An online marketplace application with seller accounts, product search and suggestions, shopping cart, order management, payment processing with Stripe, and live auction with Socket.io - developed using React, Node, Express and MongoDB.
+  status: live
+  tags:
+    - React
+    - Node
+    - Express
+    - MongoDB
+  icon: website
+  image: images/marketplace.png
+
+- name: Expense Tracker
+  url: https://expense-tracker-mmarkham.herokuapp.com/
+  description: An expense tracking application with data visualization - developed using React, Node, Express, MongoDB and Victory.
+  status: live
+  tags:
+    - React
+    - Node
+    - Express
+    - MongoDB
+  icon: website
+  image: images/expensetracker.png
+
+- name: React Hooks Video Player
+  url: https://relaxed-brown-89f5a0.netlify.app/
+  description: This project is a react app that rebuilds YouTube by utilizing the YouTube api. The code has been written to make use of React Hooks rather than class-based components.
+  status: live
+  tags:
+    - React Hooks
+    - Hooks
+    - YouTube
+  icon: website
+  image: images/reacthooks.png
+
+- name: Outside Encased
+  url: https://www.outsideencased.com
+  description: Website made with Gatsby.js to showcase art made with epoxy resin.
+  status: live
+  tags:
+    - Gatsby
+    - Node
+  icon: website
+  image: images/outsideencased.png

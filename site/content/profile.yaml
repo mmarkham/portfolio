@@ -1,0 +1,27 @@
+- profile:
+  initials: MM
+  name: Matthew Markham
+  profession: Developer
+  image: images/mmarkham3.jpg
+  location: Santa Cruz, CA
+  relocation: false
+  company: X1
+  for_hire: true
+  focus: Web Development w/ React
+  focus_url: https://reactjs.org
+  about: |
+    Over 7 years of professional experience in the software industry, developing and testing web (React), mobile (React Native), and desktop (C# / .NET) applications.
+
+  skills:
+    - JavaScript
+    - React
+    - C#
+  tools:
+    - Node.js
+    - VSCode
+    - Selenium
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
