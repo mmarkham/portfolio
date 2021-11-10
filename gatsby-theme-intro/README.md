@@ -28,6 +28,8 @@ https://weeby.studio/intro/preview
 
 ## 🚀 Getting Started
 
+hi
+
 ### Install theme & dependencies
 
 ```shell
